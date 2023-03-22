@@ -665,3 +665,9 @@
       display: none;
   }
   }
+  @media screen and (min-width: 1024px) {
+    .gfg-div {
+      background-color: wheat;
+      color: #fff;
+    }
+}

@@ -328,4 +328,10 @@
   #nu{
     margin-left: 5%;
   }
+  @media screen and (min-width: 1024px) {
+    .gfg-div {
+      background-color: wheat;
+      color: #fff;
+    }
+}
   
