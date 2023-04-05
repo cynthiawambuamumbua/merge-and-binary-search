@@ -63,15 +63,15 @@
     display: inline-flex;
     /* display: contents; */
     display: flex;
-    margin-right: 12%;
+    /* margin-right: 12%; */
     margin-left: 19%;
-    margin-bottom: 2%;
+    /* margin-bottom: 2%; */
     margin-top: 5%;
-    word-spacing: 30px;
-    border: none;
-    border-style: none;
-    border: none;
-    text-align: right;
+    /* word-spacing: 30px; */
+    /* border: none; */
+    /* border-style: none; */
+    /* border: none; */
+    /* text-align: right; */
     
     
   }
