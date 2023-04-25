@@ -1,5 +1,7 @@
 .content{
-    background-color: bisque;
+    text-align: center;
+    /* max-width: 1200px; */
+    /* background-color: wheat; */
 } 
 #mode{
     text-align: center;
@@ -31,23 +33,44 @@ nav ul li{
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+#ijap{
+    margin-bottom: 12%;
+}
 #h{
-   /* display: flex; */
-   /* align-items: center; */
    margin-left: 34%;
    font-weight: 400px;
-   /* margin-top: 25%; */
+}
+#jinb{
+    margin-bottom: -153%;
+    margin-top: 43%;
+    margin-left: 46%;
+    /* margin-bottom: -82%; */
 }
 .content{
     /* display: flex; */
 }
 #kn{
-    margin-bottom: 345;
+    margin-bottom: 34%;
 }
 .content2{
     background-color: white;
     margin-bottom: 2%;
     margin-top: -15%;
+    margin-right: 21%;
+}
+#hi{
+  /* margin-top: -15%; */
+  font-size: large;
+  font-display: collapse;
+  color: black;
+  /* border: solid; */
+}
+#wp{
+
+}
+#cdt{
+    margin-top: -10%;
+    /* margin-left: 3%; */
 }
 .content3{
     margin-left: 70%;
@@ -65,6 +88,7 @@ nav ul li{
     align-content: space-between;
     width: 150px;
     height: 100px;
+    display: flex;
 
 
 }
@@ -91,35 +115,70 @@ nav ul li{
 .photos2{
     margin-left: 20%;
     margin-bottom: 20%;
+    display: flex;
 }
 #ht{
     text-align: center;
     /* justify-content: space-between; */
     /* border-radius: 3px 3px; */
-    /* display: flex; */
+    display: flex;
     /* margin: auto; */
-    /* vertical-align: middle ; */
-    margin-bottom: 6%;
+    vertical-align: middle ;
+    /* margin-bottom: 6%; */
 }
-#nb{
-    margin-bottom: 16%;
-
+#bttn1{
+    margin-right: 2%;
 }
-.kk{
-    margin-left: 19%;
+#kich{
+    /* margin-bottom: 9%; */
+}
+#kp{
+    margin-left: -16%;
+}
+#kb{
+    margin-left: 13%;
+    margin-top: -3%;
+}
+#yy{
+    margin-top: -2%;
+    margin-left: 28%;
+}
+#hh{
+    margin-top: -1%;
+}
+#k{
+    margin-top: -3%;
+}
+#lo{
+    margin-left: 5%;
+}
+#vf{
+    font-size: x-large;
+}
+#nj{
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+.kevo{
+    margin-left: -14%;
+    margin-bottom: -497%;
 
 }
 #ll{
+    margin-left: 99%;
+    margin-bottom: -497%;
 
 }
-#mm{
-
+#mhj{
+    margin-left: 57%;
+    margin-bottom: -493%;
 }
 .photos{
     display: flex;
 }
 #oo{
-    margin-bottom: -494%;
+    margin-bottom: -490%;
+    margin-right: 8%;
 
 }
 .kk{
@@ -155,32 +214,175 @@ nav ul li{
     padding: 3px 10px;
     width: fit-content;
     margin-left: 14%;
+    margin-bottom: 6%;
 }
-.kel{
+#hh{
+    /* margin-left: -6%; */
+    border-radius: 10px;
+    /* border-color: black; */
+    /* border: black; */
+}
+#mm{
+    margin-left: 10%;
+    border-radius: 10px;
+}
+#jj{
+    margin-left: 11%;
+    border: solid;
+    background-color: blue;
+    color: black;
+    border-radius: 10px;
+}
+.logos2{
+    display: flex;
+    margin-bottom: 5%;
+
+}
+#sp{
+    margin-left: 15%;
+    /* margin-bottom: 10%; */
+    border-radius: 10px;
+}
+#io{
+    margin-left: 5%;
+    border: solid;
+    border-radius: 10px;
+}
+#pp{
+    margin-left: 6%;
+    border-radius: 14px;
+}
+.logo35{
+    display: flex;
+    margin-bottom: 19%;
+}
+#st{
+    margin-left: 9%;
+    border-radius: 10px;
+}
+#yt{
+    margin-left: 1%;
+    border: solid;
+    border-radius: 10px;
+    background-color: bisque;
+}
+#ct{
+    margin-left: 1%;
+    border: solid;
+    background-color: wheat;
+    border-radius: 10px;
+}
+#ew{
+    margin-left: 2%;
+    margin-top: -3%;
+    border: solid;
+    background-color: wheat;
+    border-radius: 10px;
+}
+.kelb{
     display: flex;
     justify-content: space-between;
     padding: 3px 10px;
     width: fit-content;
-    margin-left: 14%;
+    /* margin-left: 14%; */
+    /* margin-bottom: 2%; */
 
 }
+#fo{
+    /* margin-right: -5%; */
+    margin-left: 8%;
+    margin-bottom: 3%;
+    border: solid;
+    background-color: rgb(37, 24, 7);
+    border-radius: 10px;
+    /* margin-bottom: 15%; */
+}
+#in{
+    margin-left: 2%;
+    border-radius: 12px;
+}
+#sl{
+    margin-left: 2%;
+    border-radius: 10px;
+}
+#vw{
+    margin-left: 2%;
+    border: solid;
+    border-radius: 10px;
+    background-color: wheat;
+}
 #bttn1{
-border-radius: 10px;
+/* border-radius: 990px; */
 padding: 15px 120px;
 margin-top: -13%;
-margin-left: 35%;
-margin-bottom: 5%;
-background-color:#FFD600;
+margin-left: 25%;
+border: solid;
+border-sizing: 200px;
+margin-bottom: 2%;
+/* background-color:#FFD600; */
 }
 .card1{
     display: inline-block;
 }
 .pic{
     margin-bottom: 3%;
+    display: flex;
 }
-.pic{
-    margin-left: 17%;
-    margin-bottom: 3%;
+#hh{
+    margin-left: 5%;
+}
+#fd{
+    margin-left: 5%;
+}
+#bn{
+    margin-left: 5%;
+}
+#uu{
+    display: flex;
+}
+#see{
+    margin-left: 7%;
+    margin-top: -2%;
+}
+#vg{
+    margin-left: 19%;
+    margin-top: -2%;
+}
+#rte{
+    margin-left: 19%;
+    margin-top: -2%;
+}
+#tred{
+    font-size: larger;
+    border-radius: 10px;
+}
+#r{
+    margin-left: 28%;
+}
+#y9{
+    margin-left: 33%;
+    margin-top: -3.2%;
+}
+.picc{
+    /* margin-left: 1%; */
+    /* margin-bottom: 2%; */
+    font-size: larger;
+}
+.semifooter{
+    display: flex;
+    background-color: yellow;
+
+}
+#button4{
+    margin-left: 18%;
+    margin-top: 10%;
+    /* border: solid; */
+    /* margin-bottom: 7%; */
+}
+#buttonv{
+    margin-left: 194%;
+    /* margin-top: 19%; */
+    margin-bottom: 9%;
 }
 h2{
     text-align: center;
@@ -197,6 +399,7 @@ h2{
     padding: 10px;
     background-color: #26004C;
     color: #fff;
+    margin-top: -12%;
 }
 .row{
     display: flex;
@@ -232,10 +435,14 @@ h2{
 #your{
     margin-left: 145%;
 }
-@media screen and (min-width: 1024px) {
-    .gfg-div {
+@media only screen and (max-width: 1024px) {
+    body {
       background-color: wheat;
-      color: #fff;
+      display: grid;
     }
-}
+  }
+  /* @media only screen {
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+} */
 
